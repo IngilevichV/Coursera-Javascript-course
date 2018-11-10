@@ -1,2 +1,2 @@
-# coursera
-Coursera courses
+# Coursera Javascript course
+
